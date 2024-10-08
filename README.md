@@ -5,7 +5,7 @@ This project implements a content-based song recommendation system that suggests
 
 ## Features
 - **Content-Based Recommendations:** Recommends songs based on lyrics similarity.
-- **Scalability:** Designed to handle a dataset with up to 57,000 songs.
+- **Scalability:** Designed to handle a dataset with up to 50,000 songs.
 - **Flexible Input:** Users can input any song title to receive personalized recommendations.
 
 ## Technologies Used
